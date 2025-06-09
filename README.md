@@ -1,2 +1,3 @@
 # regresionLinea
-- IA pandas 
+- IA pandas
+- Celsius a Farenheit
