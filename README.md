@@ -1,2 +1,2 @@
 # regresionLinea
-## IA pandas 
+- IA pandas 
