@@ -1,0 +1,2 @@
+# regresionLineal
+IA pandas 
